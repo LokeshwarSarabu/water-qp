@@ -1,4 +1,4 @@
-# Water Quality Prediction using decision trees
+# Water Quality Prediction 
 
 ### Problem Statement:
 
